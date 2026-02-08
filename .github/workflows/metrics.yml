@@ -1,4 +1,4 @@
-name: Modern Metrics
+name: Only Languages
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
@@ -14,14 +14,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: peler1nl1kelt0s
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Istanbul
+          base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css, jupyter notebook
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_indepth: yes
-          plugin_lines: yes
-          plugin_traffic: yes
-          config_order: base.header, base.activity+community, base.repositories, plugin.languages
