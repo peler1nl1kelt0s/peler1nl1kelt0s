@@ -1,1 +1,1 @@
-<img src="[https://media.giphy.com/media/U7z9ReCpE1AXzYnYet/giphy.gif]" width="800" height="300" />
+<img src="[https://giphy.com/gifs/asta-yuno-blackclover-aiaWqNYWKrYigXbupB]" width="800" height="300" />
