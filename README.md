@@ -1,1 +1,1 @@
-![Metrics](https://github.com/peler1nl1kelt0s/peler1nl1kelt0s/blob/main/github-metrics.svg)
+<img src="[https://media.giphy.com/media/U7z9ReCpE1AXzYnYet/giphy.gif]" width="800" height="300" />
