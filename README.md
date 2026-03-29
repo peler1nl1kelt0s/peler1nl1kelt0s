@@ -1,1 +1,1 @@
-<img src="https://tenor.com/view/tanjiro-tanjiro-kamado-see-through-world-demon-slayer-sun-breathing-gif-7171639745856402760" width="500" height="300" />
+<img src="https://media.tenor.com/S6S_S_r_S6SAAAAC/tanjiro-tanjiro-kamado.gif" width="500" />
