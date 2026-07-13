@@ -1,1 +1,1 @@
-<img src="https://media1.tenor.com/m/Y4bIWhTX9UgAAAAd/tanjiro-tanjiro-kamado.gif" width="800" height="500" />
+<img src="https://media1.tenor.com/m/mhIoBUGqbzYAAAAd/guy-crimson-that-time-i-got-reincarnated-as-a-slime.gif" width="500" height="300" />
